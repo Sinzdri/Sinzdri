@@ -1,4 +1,4 @@
-### Hi there, I'm currently learning java. I'm also working on a small creative python project.
+### Hi there, I'm currently learning java. I'm also working on a small personal python project.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinzdri)](https://github.com/anuraghazra/github-readme-stats)
 
