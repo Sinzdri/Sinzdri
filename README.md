@@ -1,5 +1,4 @@
-### Hi there, I'm currently learning java as part of a bootcamp with QA. I'm also working on a small personal python project.
-
+### Hi there, I'm currently learning java as part of a bootcamp with QA.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinzdri)](https://github.com/anuraghazra/github-readme-stats)
 
 
