@@ -1,5 +1,4 @@
-### Hi there, I'm currently learning java as part of a bootcamp with QA.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinzdri)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, I've recently completed a skills bootcamp and am looking for opportunities to make use of, develop and build upon those skills.
 
 
 <!--
