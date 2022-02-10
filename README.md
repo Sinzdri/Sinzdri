@@ -1,4 +1,4 @@
-### Hi there, I've recently completed a software development skills bootcamp and am looking for opportunities to make use of, develop and build upon those skills.
+### Hi there, I've recently completed a software development skills bootcamp and am looking for opportunities to make use of, develop and build upon those skills. I'm currently primarily working on creating a basic chess game in Java.
 
 
 <!--
